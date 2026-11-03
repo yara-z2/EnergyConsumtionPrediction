@@ -13,7 +13,7 @@ The input file is household_power_consumption.txt. We use one column, Global_act
 
 # Models and Tools:
 
-for our tools and models, because this project is for our introduction to ai course we integrated one of the models we learned in class which is linear regression. The second whcih we researched about was random forest. and some of the tools were pandas, numpy, google colab.
+for our tools and models, because this project is for our Introduction to AI course we integrated one of the models we learned in class which is linear regression. The second whcih we researched about was random forest. and some of the tools were pandas, numpy, google colab.
 
 # Project pipline:
  1. Load the data
