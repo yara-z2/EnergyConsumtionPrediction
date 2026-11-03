@@ -29,6 +29,21 @@ for our tools and models, because this project is for our Introduction to AI cou
 
 # Project results:
 Our project showed that minute level worked better than hour level since the original dataset is in minutes. The project also showed that random forest worked better than linear regression, it also showed how much of the carbon emmisions were irregular.
+| Level | Selected depth | MAE (kW) | RMSE (kW) | R2 |
+|---|---|---|---|---|
+| Minute | 18 | 0.0753 | 0.2090 | 0.9413 |
+| Hourly | 12 | 0.3233 | 0.4712 | 0.5540 |
+
+The minute level was selected. It is easier to predict because the next minute is very close to the previous one, so the minute result is a short-term prediction.
+
+Linear Regression vs Random Forest (minute level, test data)
+
+| Model | MAE (kW) | RMSE (kW) | R2 |
+|---|---|---|---|
+| Linear Regression | 0.2169 | 0.3729 | 0.8132 |
+| Random Forest | 0.0753 | 0.2090 | 0.9413 |
+
+The random forest model was selected.
 
 # How to run:
 1. Download or clone this repository.
