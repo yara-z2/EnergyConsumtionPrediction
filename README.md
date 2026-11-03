@@ -21,8 +21,8 @@ the project supports UN SDG 12 (Responsible Consumption and Production) by makin
 
 # Team Members:
 
-Yara Alzamel
-Fai Bin Khanjar 
-ALjoharah altuwaijri
+- Yara Alzamel
+- Fai Bin Khanjar 
+- ALjoharah altuwaijri
 
 # Refrences:
