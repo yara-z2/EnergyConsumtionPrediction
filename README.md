@@ -4,7 +4,7 @@
 The project aims to predict household energy consumption. it also identifies high periods of consumption and estimates the related carbon emmisions.
 
 # Goal: 
-Our goal is to predict hourly household electricity consumption, detect unusually high consumption, estimate the associated electricity-related carbon emissions and cost, and turn the findings into practical recommendations. first by comparing minute-level and hourly household electricity data first, compare Linear Regression and Random Forest on the better resolution, then detect unusually high consumption and estimate the related carbon emissions.
+Our goal is to predict household electricity consumption, detect unusually high consumption, estimate the associated electricity-related carbon emissions and cost, and turn the findings into practical recommendations. first by comparing minute-level and hourly household electricity data first, compare Linear Regression and Random Forest on the better resolution, then detect unusually high consumption and estimate the related carbon emissions.
 
 # Dataset: 
 The dataset used in this project is the Household Power Consumption Dataset from the UCI Machine Learning Repository.
